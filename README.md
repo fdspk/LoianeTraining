@@ -1,6 +1,6 @@
 # LoianeTraining
 
-[ ] Curso Java Básico (10/69 ou 15%)
-[ ] Java Intermediário (0%)
-[ ] Estrutura de dados com Java (0%)
-[ ] Angular (0%)
+[ ] Curso Java Básico (10/69 ou 15%)<br>
+[ ] Java Intermediário (0%)<br>
+[ ] Estrutura de dados com Java (0%)<br>
+[ ] Angular (0%)<br>
